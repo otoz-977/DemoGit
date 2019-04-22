@@ -8,5 +8,7 @@ namespace gitDemo.Code
 {
     class Class1
     {
+
+        int i = 32;
     }
 }
